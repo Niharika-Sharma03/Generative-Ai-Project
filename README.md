@@ -1,4 +1,5 @@
 # Generative-Ai-Project
+
 1) create smartdoc-ai folder 
 follow the following structure:-
 smartdoc-ai/
@@ -17,7 +18,9 @@ smartdoc-ai/
 ├── .env(file)
 └── requirements.txt(file)
 
+
 2)paste code for all files 
+
 
 3) In terminals create environment:- 
 python -m venv venv
@@ -27,6 +30,7 @@ venv\Scripts\activate
 pip install python-dotenv
 pip install -r requirements.txt
 
+
 5)Generate API Keys
 Go to console.groq.com
 Click Sign Up → sign in with Google (easiest)
@@ -35,6 +39,7 @@ Click "Create API Key"
 Name it smartdoc
 Copy the key — it looks like gsk_xxxxxxxxxxxxxxxxxxxx
 Replace gsk_xxxxxxxxxxxxxxxxxxxx with your actual copied key. Press Ctrl+S to save. in file(.env)
+
 
 6)Every time you come back to  project
 #Terminal 1 — activate and start backend
