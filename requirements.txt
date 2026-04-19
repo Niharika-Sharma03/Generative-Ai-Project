@@ -1,0 +1,16 @@
+fastapi 
+uvicorn 
+python-multipart
+openai 
+groq 
+google-generativeai
+sentence-transformers 
+chromadb 
+PyPDF2
+jinja2 
+pydantic 
+rouge-score
+streamlit 
+requests 
+pandas
+python-dotenv
